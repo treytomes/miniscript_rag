@@ -1,3 +1,6 @@
+# Don't upload the wiki content.
+content/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
